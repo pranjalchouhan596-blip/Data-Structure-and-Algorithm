@@ -17,8 +17,6 @@ This repository documents my daily journey of learning and practicing **Data Str
 ## 🛠️ Languages Used
 
 - Python 🐍
-- C
-- C++
 
 ## 📂 Topics Covered
 
